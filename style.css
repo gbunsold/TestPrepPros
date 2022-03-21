@@ -207,7 +207,8 @@ video {
 }
 
 form {
-    background-color:#FFA500;
+    background-color:#1c259b;
+    color:white;
     width:90%;
     margin:auto;
     color:white;
@@ -221,13 +222,13 @@ input {
 .call {
     border-radius:5px;
     text-align:center;
-    background-color:#0000b0;
+    background-color:#FFFFFF;
     width:60%;
     padding: 5px;
     margin:10px auto 0 auto;
 }
  .call p{
-    color:#ffffff;
+    color:#1c259b;
     font-size:1.5em;
     padding:0;
     margin:0;
